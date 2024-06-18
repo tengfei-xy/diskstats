@@ -1,6 +1,6 @@
 # 硬盘状态统计脚本
 
-[english](./README_en.MD)
+[english](./README_EN.MD)
 
 ## 说明
 
